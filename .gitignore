@@ -1,0 +1,30 @@
+/tmp
+/out-tsc
+
+/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.pnp
+.pnp.js
+
+.vscode/*
+
+# Environment secrets
+.env
+.env.*
+*.env
+*.env.*
+
+# Build output
+dist/
+outputs/
+
+# IDE and system cruft
+.idea/
+.DS_Store
+src/.DS_Store
+outputs/.DS_Store
+
+# Generated project config
+*.iml

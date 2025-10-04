@@ -1,0 +1,144 @@
+{
+  "epic": "TF-16",
+  "total": 8,
+  "startAt": 0,
+  "maxResults": 50,
+  "tasks": [
+    {
+      "id": "10115",
+      "key": "TF-25",
+      "summary": "Tracks process structure, manages sections and document logistics.",
+      "status": {
+        "name": "Done"
+      },
+      "timetracking": {
+        "originalEstimate": "2d",
+        "originalEstimateSeconds": 57600,
+        "timeSpent": "1h",
+        "timeSpentSeconds": 3600,
+        "remainingEstimate": "1d 7h",
+        "remainingEstimateSeconds": 54000,
+        "aggregatetimespent": 3600
+      }
+    },
+    {
+      "id": "10113",
+      "key": "TF-24",
+      "summary": "Focuses on aligning use cases with business logic and requirements.",
+      "status": {
+        "name": "Done"
+      },
+      "timetracking": {
+        "originalEstimate": "2d",
+        "originalEstimateSeconds": 57600,
+        "timeSpent": "3h",
+        "timeSpentSeconds": 10800,
+        "remainingEstimate": "1d 5h",
+        "remainingEstimateSeconds": 46800,
+        "aggregatetimespent": 10800
+      }
+    },
+    {
+      "id": "10111",
+      "key": "TF-23",
+      "summary": "Focuses on behavior and functional interactions within scenarios.",
+      "status": {
+        "name": "Done"
+      },
+      "timetracking": {
+        "originalEstimate": "2d",
+        "originalEstimateSeconds": 57600,
+        "timeSpent": "3h 30m",
+        "timeSpentSeconds": 12600,
+        "remainingEstimate": "1d 4h 30m",
+        "remainingEstimateSeconds": 45000,
+        "aggregatetimespent": 12600
+      }
+    },
+    {
+      "id": "10109",
+      "key": "TF-22",
+      "summary": "Responsible for customer roles, actor identification, and clarity.",
+      "status": {
+        "name": "Done"
+      },
+      "timetracking": {
+        "originalEstimate": "2d",
+        "originalEstimateSeconds": 57600,
+        "timeSpent": null,
+        "timeSpentSeconds": null,
+        "remainingEstimate": "2d",
+        "remainingEstimateSeconds": 57600,
+        "aggregatetimespent": null
+      }
+    },
+    {
+      "id": "10107",
+      "key": "TF-21",
+      "summary": "Supports with diagram tools, formatting, and file structure.",
+      "status": {
+        "name": "Done"
+      },
+      "timetracking": {
+        "originalEstimate": "2d",
+        "originalEstimateSeconds": 57600,
+        "timeSpent": "3h",
+        "timeSpentSeconds": 10800,
+        "remainingEstimate": "1d 5h",
+        "remainingEstimateSeconds": 46800,
+        "aggregatetimespent": 10800
+      }
+    },
+    {
+      "id": "10105",
+      "key": "TF-20",
+      "summary": "Reviews and verifies all content for completeness and formatting.",
+      "status": {
+        "name": "Done"
+      },
+      "timetracking": {
+        "originalEstimate": "2d",
+        "originalEstimateSeconds": 57600,
+        "timeSpent": "4h",
+        "timeSpentSeconds": 14400,
+        "remainingEstimate": "1d 4h",
+        "remainingEstimateSeconds": 43200,
+        "aggregatetimespent": 14400
+      }
+    },
+    {
+      "id": "10103",
+      "key": "TF-19",
+      "summary": "Owns planning/logistics, supports use case structure.",
+      "status": {
+        "name": "Done"
+      },
+      "timetracking": {
+        "originalEstimate": "2d",
+        "originalEstimateSeconds": 57600,
+        "timeSpent": "1d",
+        "timeSpentSeconds": 28800,
+        "remainingEstimate": "1d",
+        "remainingEstimateSeconds": 28800,
+        "aggregatetimespent": 28800
+      }
+    },
+    {
+      "id": "10101",
+      "key": "TF-18",
+      "summary": "Work Item - Coordinates collaboration, ensures the entire document is completed and submitted on time.",
+      "status": {
+        "name": "Done"
+      },
+      "timetracking": {
+        "originalEstimate": "2d",
+        "originalEstimateSeconds": 57600,
+        "timeSpent": "1d",
+        "timeSpentSeconds": 28800,
+        "remainingEstimate": "1d",
+        "remainingEstimateSeconds": 28800,
+        "aggregatetimespent": 28800
+      }
+    }
+  ]
+}
